@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋 I'm José Rodríguez</h1>
 <h3 align="center">Software Engineer focused on building maintainable, scalable software</h3>
 
@@ -53,4 +53,3 @@ Docker • Kubernetes • Git • Azure • Google Cloud
 ---
 
 > *"Good software isn't only about making it work. It's about making it easy to understand, maintain and improve."*
-```
