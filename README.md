@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/josefrh17">
-    <img src="resources/linkedin.png" height="30" />
+    <img src="linkedin.png" height="30" />
   </a>
 </p>
 
